@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=yama-can&label=Profile%20views&color=0e75b6&style=social" alt="yama-can" align="center">
   </a>
   　
-  <a href="https://github.com/iotinJ09">
+  <a href="https://github.com/yama-can">
     <img src="https://img.shields.io/github/followers/yama-can?label=follow&logo=github&style=flat" alt="yama-can" align="center" />
   </a>
   <h3>Stats</h3>
