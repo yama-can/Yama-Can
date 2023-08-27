@@ -10,7 +10,7 @@
   </a>
   <h3>Stats</h3>
 <a href="https://github.com/yama-can">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yama-can&show_icons=true&theme=tokyonight&custom_title=Github+Stats+2022" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yama-can&show_icons=true&theme=tokyonight&custom_title=Github+Stats" />
 </a>
 <br>
 <a href="https://github.com/yama-can">
